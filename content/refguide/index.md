@@ -16,7 +16,7 @@ If you are looking for step-by-step guides on performing various Mendix actions,
 
 ## 2 Studio Pro Functionality
 
-Studio Pro allows you to create, test, and run apps. 
+Studio Pro allows you to create, test, and run apps in more Developer focused and elaborated manner than Mendix Studio. 
 
 ### 2.1 Modeling 
 
